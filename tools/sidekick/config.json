@@ -17,6 +17,17 @@
     " ** /fr/blocks/ ** "
     ]
     },
+
+         {
+    "id": "AEM-Assets",
+    "title": "AEM Assets",
+    "environments": [ "edit"],
+   "url" : "https://experience.adobe.com/solutions/CQ-assets-selectors/static-assets/resources/franklin/asset-selector.html",
+    "passConfig":true,
+    "passReferrer": true,
+    "includePaths":["**.docx**"],
+    "isPalette": true,
+         },
     {
     "id": "tools",
     "title": "Tools",
